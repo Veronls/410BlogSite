@@ -96,6 +96,12 @@ nav a.active {
   margin-bottom: 1rem;
 }
 
+.blog-image {
+  max-width: 100%;
+  border-radius: 0.75rem;
+  margin: 1.5rem 0;
+}
+
 .read-more {
   display: inline-block;
   margin-top: 1rem;
